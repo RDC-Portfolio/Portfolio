@@ -2,6 +2,11 @@ body{
 	background-color: lightgoldenrodyellow;
 }
 
+h1, h2{
+		font-family: 'Roboto', sans-serif;
+
+}
+
 h1{
 	font-size: 50px;
 	color: blue;
